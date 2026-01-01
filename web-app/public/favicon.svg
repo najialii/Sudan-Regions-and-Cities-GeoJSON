@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#2c3e50"/>
+  
+  <!-- Sudan outline (simplified) -->
+  <path d="M25 20 L75 20 L75 35 L70 40 L75 45 L75 75 L25 75 L25 60 L20 55 L25 50 L25 20 Z" 
+        fill="none" stroke="#ecf0f1" stroke-width="2"/>
+  
+  <!-- Cities (different sizes) -->
+  <circle cx="45" cy="35" r="4" fill="#e74c3c"/> <!-- Khartoum -->
+  <circle cx="35" cy="50" r="3" fill="#f39c12"/> <!-- Other major city -->
+  <circle cx="55" cy="45" r="2.5" fill="#27ae60"/> <!-- Town -->
+  <circle cx="40" cy="60" r="2" fill="#27ae60"/> <!-- Village -->
+  <circle cx="60" cy="30" r="2" fill="#27ae60"/> <!-- Village -->
+  
+  <!-- Administrative boundaries -->
+  <line x1="25" y1="40" x2="75" y2="40" stroke="#3498db" stroke-width="1" opacity="0.6"/>
+  <line x1="25" y1="55" x2="75" y2="55" stroke="#3498db" stroke-width="1" opacity="0.6"/>
+  <line x1="50" y1="20" x2="50" y2="75" stroke="#3498db" stroke-width="1" opacity="0.6"/>
+  
+  <!-- Country code -->
+  <text x="50" y="90" text-anchor="middle" fill="#ecf0f1" font-size="10" font-family="Arial" font-weight="bold">SD</text>
+</svg>
