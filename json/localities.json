@@ -1,0 +1,2270 @@
+[
+  {
+    "locality_id": 1,
+    "region_id": 16,
+    "name_en": "Abassiya",
+    "name_ar": "العباسية",
+    "code": "SD07090",
+    "center": [
+      12.23446411,
+      31.27196462
+    ],
+    "area_sqkm": 4231.34674682
+  },
+  {
+    "locality_id": 2,
+    "region_id": 13,
+    "name_en": "Abu Hamad",
+    "name_ar": "أبو حمد",
+    "code": "SD16008",
+    "center": [
+      20.15350342,
+      33.21958583
+    ],
+    "area_sqkm": 31673.07641962
+  },
+  {
+    "locality_id": 3,
+    "region_id": 14,
+    "name_en": "Abu Hujar",
+    "name_ar": "أبو حجار",
+    "code": "SD14037",
+    "center": [
+      12.66913569,
+      33.87876421
+    ],
+    "area_sqkm": 3829.28920676
+  },
+  {
+    "locality_id": 4,
+    "region_id": 5,
+    "name_en": "Abu Jabrah",
+    "name_ar": "أبو جابرة",
+    "code": "SD05140",
+    "center": [
+      10.95039662,
+      26.86880251
+    ],
+    "area_sqkm": 6060.47072896
+  },
+  {
+    "locality_id": 5,
+    "region_id": 16,
+    "name_en": "Abu Jubayhah",
+    "name_ar": "أبو جبيهة",
+    "code": "SD07088",
+    "center": [
+      11.00225303,
+      31.87498947
+    ],
+    "area_sqkm": 20973.49372207
+  },
+  {
+    "locality_id": 6,
+    "region_id": 5,
+    "name_en": "Abu Karinka",
+    "name_ar": "أبو كارنكا",
+    "code": "SD05155",
+    "center": [
+      11.57914993,
+      26.55155487
+    ],
+    "area_sqkm": 2452.52530699
+  },
+  {
+    "locality_id": 7,
+    "region_id": 16,
+    "name_en": "Abu Kershola",
+    "name_ar": "أبو كرشولا",
+    "code": "SD07104",
+    "center": [
+      11.98950039,
+      30.76776196
+    ],
+    "area_sqkm": 3090.16409845
+  },
+  {
+    "locality_id": 8,
+    "region_id": 18,
+    "name_en": "Abu Zabad",
+    "name_ar": "أبو زبد",
+    "code": "SD18028",
+    "center": [
+      12.64563046,
+      29.24488426
+    ],
+    "area_sqkm": 5211.6021904
+  },
+  {
+    "locality_id": 9,
+    "region_id": 18,
+    "name_en": "Abyei",
+    "name_ar": "أبيي",
+    "code": "SD18087",
+    "center": [
+      10.83813199,
+      27.62159136
+    ],
+    "area_sqkm": 4434.89659029
+  },
+  {
+    "locality_id": 10,
+    "region_id": 1,
+    "name_en": "Abyei PCA area",
+    "name_ar": "إدارية أبيي",
+    "code": "SD19001",
+    "center": [
+      9.76237449,
+      28.41709322
+    ],
+    "area_sqkm": 10536.83824562
+  },
+  {
+    "locality_id": 11,
+    "region_id": 11,
+    "name_en": "Ad Dabbah",
+    "name_ar": "الدبة",
+    "code": "SD17019",
+    "center": [
+      17.53417319,
+      30.83792189
+    ],
+    "area_sqkm": 45195.221315
+  },
+  {
+    "locality_id": 12,
+    "region_id": 14,
+    "name_en": "Ad Dali",
+    "name_ar": "الدالي",
+    "code": "SD14039",
+    "center": [
+      12.53070086,
+      33.35936185
+    ],
+    "area_sqkm": 8096.03659316
+  },
+  {
+    "locality_id": 13,
+    "region_id": 13,
+    "name_en": "Ad Damar",
+    "name_ar": "الدامر",
+    "code": "SD16011",
+    "center": [
+      17.10827759,
+      33.94247331
+    ],
+    "area_sqkm": 37020.36756599
+  },
+  {
+    "locality_id": 14,
+    "region_id": 14,
+    "name_en": "Ad Dinder",
+    "name_ar": "الدندر",
+    "code": "SD14040",
+    "center": [
+      12.6965781,
+      35.01181176
+    ],
+    "area_sqkm": 14138.31559963
+  },
+  {
+    "locality_id": 15,
+    "region_id": 19,
+    "name_en": "Ad Diwaim",
+    "name_ar": "الدويم",
+    "code": "SD09044",
+    "center": [
+      13.9440541,
+      31.99927378
+    ],
+    "area_sqkm": 5871.23689663
+  },
+  {
+    "locality_id": 16,
+    "region_id": 5,
+    "name_en": "Ad Du'ayn",
+    "name_ar": "الضعين",
+    "code": "SD05142",
+    "center": [
+      11.41051417,
+      26.19331327
+    ],
+    "area_sqkm": 857.55748829
+  },
+  {
+    "locality_id": 17,
+    "region_id": 5,
+    "name_en": "Adila",
+    "name_ar": "عديلة",
+    "code": "SD05139",
+    "center": [
+      11.42749882,
+      26.98732395
+    ],
+    "area_sqkm": 3855.86639595
+  },
+  {
+    "locality_id": 18,
+    "region_id": 17,
+    "name_en": "Ag Geneina",
+    "name_ar": "الجنينة",
+    "code": "SD04115",
+    "center": [
+      13.36893823,
+      22.41761413
+    ],
+    "area_sqkm": 2743.90252034
+  },
+  {
+    "locality_id": 19,
+    "region_id": 12,
+    "name_en": "Agig",
+    "name_ar": "عقيق",
+    "code": "SD10072",
+    "center": [
+      17.86742609,
+      38.01496584
+    ],
+    "area_sqkm": 7554.07529716
+  },
+  {
+    "locality_id": 20,
+    "region_id": 19,
+    "name_en": "Aj Jabalain",
+    "name_ar": "الجبلين",
+    "code": "SD09051",
+    "center": [
+      12.71714202,
+      32.94759122
+    ],
+    "area_sqkm": 3973.67087905
+  },
+  {
+    "locality_id": 21,
+    "region_id": 13,
+    "name_en": "Al Buhaira",
+    "name_ar": "البحيرة",
+    "code": "SD16014",
+    "center": [
+      20.22634374,
+      32.57707767
+    ],
+    "area_sqkm": 18537.72823827
+  },
+  {
+    "locality_id": 22,
+    "region_id": 16,
+    "name_en": "Al Buram",
+    "name_ar": "البرام",
+    "code": "SD07099",
+    "center": [
+      10.58981773,
+      29.94657052
+    ],
+    "area_sqkm": 1754.14115292
+  },
+  {
+    "locality_id": 23,
+    "region_id": 11,
+    "name_en": "Al Burgaig",
+    "name_ar": "البرقيق",
+    "code": "SD17016",
+    "center": [
+      19.55121883,
+      30.61563979
+    ],
+    "area_sqkm": 1422.06264207
+  },
+  {
+    "locality_id": 24,
+    "region_id": 6,
+    "name_en": "Al Butanah",
+    "name_ar": "البطانة",
+    "code": "SD12073",
+    "center": [
+      15.00933834,
+      34.81585514
+    ],
+    "area_sqkm": 19610.01255953
+  },
+  {
+    "locality_id": 25,
+    "region_id": 18,
+    "name_en": "Al Dibab",
+    "name_ar": "الدبب",
+    "code": "SD18103",
+    "center": [
+      10.32883749,
+      28.57207277
+    ],
+    "area_sqkm": 9072.3442874
+  },
+  {
+    "locality_id": 26,
+    "region_id": 6,
+    "name_en": "Al Fao",
+    "name_ar": "الفاو",
+    "code": "SD12074",
+    "center": [
+      14.06431174,
+      34.16932934
+    ],
+    "area_sqkm": 2146.32331745
+  },
+  {
+    "locality_id": 27,
+    "region_id": 6,
+    "name_en": "Al Fashaga",
+    "name_ar": "الفشقة",
+    "code": "SD12075",
+    "center": [
+      14.34778253,
+      35.73636915
+    ],
+    "area_sqkm": 5193.68802368
+  },
+  {
+    "locality_id": 28,
+    "region_id": 9,
+    "name_en": "Al Fasher",
+    "name_ar": "الفاشر",
+    "code": "SD02114",
+    "center": [
+      13.81731875,
+      25.37589184
+    ],
+    "area_sqkm": 8502.28104848
+  },
+  {
+    "locality_id": 29,
+    "region_id": 5,
+    "name_en": "Al Firdous",
+    "name_ar": "الفردوس",
+    "code": "SD05152",
+    "center": [
+      10.89654195,
+      25.88267557
+    ],
+    "area_sqkm": 3028.90908596
+  },
+  {
+    "locality_id": 30,
+    "region_id": 6,
+    "name_en": "Al Galabat Al Gharbyah - Kassab",
+    "name_ar": "القلابات الغربية - كساب",
+    "code": "SD12078",
+    "center": [
+      13.35503024,
+      35.36545129
+    ],
+    "area_sqkm": 4138.54833243
+  },
+  {
+    "locality_id": 31,
+    "region_id": 12,
+    "name_en": "Al Ganab",
+    "name_ar": "القنب",
+    "code": "SD10069",
+    "center": [
+      19.32728183,
+      35.03604464
+    ],
+    "area_sqkm": 70407.63162497
+  },
+  {
+    "locality_id": 32,
+    "region_id": 19,
+    "name_en": "Al Gitaina",
+    "name_ar": "القطينة",
+    "code": "SD09050",
+    "center": [
+      14.39625514,
+      32.28511814
+    ],
+    "area_sqkm": 5592.40831337
+  },
+  {
+    "locality_id": 33,
+    "region_id": 11,
+    "name_en": "Al Golid",
+    "name_ar": "القولد",
+    "code": "SD17018",
+    "center": [
+      17.694802,
+      28.75308507
+    ],
+    "area_sqkm": 65658.1422004
+  },
+  {
+    "locality_id": 34,
+    "region_id": 2,
+    "name_en": "Al Hasahisa",
+    "name_ar": "الحصاحيصا",
+    "code": "SD15034",
+    "center": [
+      14.81227066,
+      32.92226997
+    ],
+    "area_sqkm": 4163.03666735
+  },
+  {
+    "locality_id": 35,
+    "region_id": 18,
+    "name_en": "Al Idia",
+    "name_ar": "الأضية",
+    "code": "SD18104",
+    "center": [
+      11.92549772,
+      27.78646539
+    ],
+    "area_sqkm": 7328.05248508
+  },
+  {
+    "locality_id": 36,
+    "region_id": 2,
+    "name_en": "Al Kamlin",
+    "name_ar": "الكاملين",
+    "code": "SD15035",
+    "center": [
+      15.1443032,
+      32.90660326
+    ],
+    "area_sqkm": 1825.96030855
+  },
+  {
+    "locality_id": 37,
+    "region_id": 18,
+    "name_en": "Al Khiwai",
+    "name_ar": "الخوي",
+    "code": "SD18105",
+    "center": [
+      13.34545559,
+      29.03070488
+    ],
+    "area_sqkm": 9173.18567956
+  },
+  {
+    "locality_id": 38,
+    "region_id": 9,
+    "name_en": "Al Koma",
+    "name_ar": "الكومة",
+    "code": "SD02116",
+    "center": [
+      14.12073817,
+      27.25494064
+    ],
+    "area_sqkm": 776.2246673
+  },
+  {
+    "locality_id": 39,
+    "region_id": 3,
+    "name_en": "Al Kurmuk",
+    "name_ar": "الكرمك",
+    "code": "SD08106",
+    "center": [
+      10.39509187,
+      34.01307159
+    ],
+    "area_sqkm": 9727.56544125
+  },
+  {
+    "locality_id": 40,
+    "region_id": 18,
+    "name_en": "Al Lagowa",
+    "name_ar": "لقاوة",
+    "code": "SD18102",
+    "center": [
+      11.30462582,
+      28.96671645
+    ],
+    "area_sqkm": 7388.19209519
+  },
+  {
+    "locality_id": 41,
+    "region_id": 9,
+    "name_en": "Al Lait",
+    "name_ar": "اللعيت",
+    "code": "SD02169",
+    "center": [
+      11.97348967,
+      26.69982556
+    ],
+    "area_sqkm": 2796.14194858
+  },
+  {
+    "locality_id": 42,
+    "region_id": 16,
+    "name_en": "Al Leri",
+    "name_ar": "الليري",
+    "code": "SD07105",
+    "center": [
+      10.17316501,
+      30.71394663
+    ],
+    "area_sqkm": 7420.93291559
+  },
+  {
+    "locality_id": 43,
+    "region_id": 6,
+    "name_en": "Al Mafaza",
+    "name_ar": "المفازة",
+    "code": "SD12082",
+    "center": [
+      13.61028977,
+      34.54461689
+    ],
+    "area_sqkm": 1380.97615017
+  },
+  {
+    "locality_id": 44,
+    "region_id": 9,
+    "name_en": "Al Malha",
+    "name_ar": "المالحة",
+    "code": "SD02117",
+    "center": [
+      17.43470736,
+      25.74755527
+    ],
+    "area_sqkm": 194634.16668031
+  },
+  {
+    "locality_id": 45,
+    "region_id": 2,
+    "name_en": "Al Manaqil",
+    "name_ar": "المناقل",
+    "code": "SD15036",
+    "center": [
+      14.18056913,
+      33.050891
+    ],
+    "area_sqkm": 3740.30290896
+  },
+  {
+    "locality_id": 46,
+    "region_id": 13,
+    "name_en": "Al Matama",
+    "name_ar": "المتمة",
+    "code": "SD16009",
+    "center": [
+      16.7004489,
+      32.67959529
+    ],
+    "area_sqkm": 9272.37029692
+  },
+  {
+    "locality_id": 47,
+    "region_id": 18,
+    "name_en": "Al Meiram",
+    "name_ar": "الميرم",
+    "code": "SD18106",
+    "center": [
+      10.32206875,
+      27.80060989
+    ],
+    "area_sqkm": 5553.86808919
+  },
+  {
+    "locality_id": 48,
+    "region_id": 16,
+    "name_en": "Al Quoz",
+    "name_ar": "القوز",
+    "code": "SD07094",
+    "center": [
+      12.45575558,
+      29.82893729
+    ],
+    "area_sqkm": 2617.92207201
+  },
+  {
+    "locality_id": 49,
+    "region_id": 2,
+    "name_en": "Al Qurashi",
+    "name_ar": "القرشي",
+    "code": "SD15037",
+    "center": [
+      14.29321357,
+      32.64319818
+    ],
+    "area_sqkm": 3136.28262031
+  },
+  {
+    "locality_id": 50,
+    "region_id": 6,
+    "name_en": "Al Qureisha",
+    "name_ar": "القريشة",
+    "code": "SD12076",
+    "center": [
+      13.67477492,
+      36.11640205
+    ],
+    "area_sqkm": 3543.6328111
+  },
+  {
+    "locality_id": 51,
+    "region_id": 15,
+    "name_en": "Al Radoum",
+    "name_ar": "الردوم",
+    "code": "SD03141",
+    "center": [
+      9.73030339,
+      24.20778467
+    ],
+    "area_sqkm": 25527.8721192
+  },
+  {
+    "locality_id": 52,
+    "region_id": 15,
+    "name_en": "Al Wihda",
+    "name_ar": "الوحدة",
+    "code": "SD03150",
+    "center": [
+      12.86938477,
+      24.99357103
+    ],
+    "area_sqkm": 1076.72087851
+  },
+  {
+    "locality_id": 53,
+    "region_id": 18,
+    "name_en": "An Nuhud",
+    "name_ar": "النهود",
+    "code": "SD18022",
+    "center": [
+      13.1653683,
+      28.49448028
+    ],
+    "area_sqkm": 12277.27960516
+  },
+  {
+    "locality_id": 54,
+    "region_id": 6,
+    "name_en": "Ar Rahad",
+    "name_ar": "الرهد",
+    "code": "SD12084",
+    "center": [
+      13.19351168,
+      34.95179731
+    ],
+    "area_sqkm": 2129.60968653
+  },
+  {
+    "locality_id": 55,
+    "region_id": 10,
+    "name_en": "Ar Rahad",
+    "name_ar": "الرهد",
+    "code": "SD13030",
+    "center": [
+      12.80944838,
+      30.60023834
+    ],
+    "area_sqkm": 5674.84576565
+  },
+  {
+    "locality_id": 56,
+    "region_id": 16,
+    "name_en": "Ar Rashad",
+    "name_ar": "الرشاد",
+    "code": "SD07093",
+    "center": [
+      11.80824316,
+      31.09875725
+    ],
+    "area_sqkm": 1770.4618167
+  },
+  {
+    "locality_id": 57,
+    "region_id": 16,
+    "name_en": "Ar Reif Ash Shargi",
+    "name_ar": "الريف الشرقي",
+    "code": "SD07097",
+    "center": [
+      11.18697351,
+      29.93825193
+    ],
+    "area_sqkm": 2145.7015744
+  },
+  {
+    "locality_id": 58,
+    "region_id": 3,
+    "name_en": "Ar Rusayris",
+    "name_ar": "الروصيرص",
+    "code": "SD08107",
+    "center": [
+      12.16263365,
+      34.59294113
+    ],
+    "area_sqkm": 4023.91668555
+  },
+  {
+    "locality_id": 59,
+    "region_id": 15,
+    "name_en": "As Salam - SD",
+    "name_ar": "السلام - ج د",
+    "code": "SD03166",
+    "center": [
+      11.73599243,
+      24.83571536
+    ],
+    "area_sqkm": 5094.06514277
+  },
+  {
+    "locality_id": 60,
+    "region_id": 18,
+    "name_en": "As Salam - WK",
+    "name_ar": "السلام - غ ك",
+    "code": "SD18086",
+    "center": [
+      11.30422688,
+      28.15790677
+    ],
+    "area_sqkm": 9135.21290951
+  },
+  {
+    "locality_id": 61,
+    "region_id": 19,
+    "name_en": "As Salam / Ar Rawat",
+    "name_ar": "السلام / الراوات",
+    "code": "SD09049",
+    "center": [
+      12.48053805,
+      32.26000837
+    ],
+    "area_sqkm": 8701.02234128
+  },
+  {
+    "locality_id": 62,
+    "region_id": 9,
+    "name_en": "As Serief",
+    "name_ar": "السريف",
+    "code": "SD02118",
+    "center": [
+      13.96877577,
+      23.71037077
+    ],
+    "area_sqkm": 6201.31448523
+  },
+  {
+    "locality_id": 63,
+    "region_id": 14,
+    "name_en": "As Suki",
+    "name_ar": "السوكي",
+    "code": "SD14041",
+    "center": [
+      12.99252915,
+      34.11198238
+    ],
+    "area_sqkm": 2779.99070992
+  },
+  {
+    "locality_id": 64,
+    "region_id": 15,
+    "name_en": "As Sunta",
+    "name_ar": "السنطة",
+    "code": "SD03156",
+    "center": [
+      10.67858887,
+      25.5651823
+    ],
+    "area_sqkm": 3497.44245329
+  },
+  {
+    "locality_id": 65,
+    "region_id": 18,
+    "name_en": "As Sunut",
+    "name_ar": "السنوط",
+    "code": "SD18092",
+    "center": [
+      12.03967808,
+      28.94810847
+    ],
+    "area_sqkm": 6891.76010765
+  },
+  {
+    "locality_id": 66,
+    "region_id": 5,
+    "name_en": "Assalaya",
+    "name_ar": "عسلاية",
+    "code": "SD05163",
+    "center": [
+      11.69619345,
+      26.12809438
+    ],
+    "area_sqkm": 4825.94386187
+  },
+  {
+    "locality_id": 67,
+    "region_id": 3,
+    "name_en": "At Tadamon - BN",
+    "name_ar": "التضامن - ن ق",
+    "code": "SD08108",
+    "center": [
+      11.58397127,
+      33.62429272
+    ],
+    "area_sqkm": 7984.72174403
+  },
+  {
+    "locality_id": 68,
+    "region_id": 16,
+    "name_en": "At Tadamon - SK",
+    "name_ar": "التضامن - ج ك",
+    "code": "SD07106",
+    "center": [
+      12.17390683,
+      31.65869961
+    ],
+    "area_sqkm": 3443.25980414
+  },
+  {
+    "locality_id": 69,
+    "region_id": 9,
+    "name_en": "At Tawisha",
+    "name_ar": "الطويشة",
+    "code": "SD02119",
+    "center": [
+      12.46603666,
+      26.59554161
+    ],
+    "area_sqkm": 10867.49734772
+  },
+  {
+    "locality_id": 70,
+    "region_id": 9,
+    "name_en": "At Tina",
+    "name_ar": "الطينة",
+    "code": "SD02171",
+    "center": [
+      15.05944256,
+      23.04252188
+    ],
+    "area_sqkm": 5624.42771825
+  },
+  {
+    "locality_id": 71,
+    "region_id": 13,
+    "name_en": "Atbara",
+    "name_ar": "عطبرة",
+    "code": "SD16012",
+    "center": [
+      17.89335615,
+      32.83218849
+    ],
+    "area_sqkm": 8617.39727279
+  },
+  {
+    "locality_id": 72,
+    "region_id": 4,
+    "name_en": "Azum",
+    "name_ar": "أزوم",
+    "code": "SD06110",
+    "center": [
+      12.94820543,
+      23.06771412
+    ],
+    "area_sqkm": 3207.25879393
+  },
+  {
+    "locality_id": 73,
+    "region_id": 18,
+    "name_en": "Babanusa",
+    "name_ar": "بابنوسة",
+    "code": "SD18100",
+    "center": [
+      11.37669896,
+      27.68876925
+    ],
+    "area_sqkm": 2357.28302136
+  },
+  {
+    "locality_id": 74,
+    "region_id": 5,
+    "name_en": "Bahr Al Arab",
+    "name_ar": "بحر العرب",
+    "code": "SD05160",
+    "center": [
+      10.41881794,
+      26.70647191
+    ],
+    "area_sqkm": 20467.70570393
+  },
+  {
+    "locality_id": 75,
+    "region_id": 8,
+    "name_en": "Bahri",
+    "name_ar": "بحري",
+    "code": "SD01003",
+    "center": [
+      15.97564536,
+      32.73688341
+    ],
+    "area_sqkm": 3200.48821934
+  },
+  {
+    "locality_id": 76,
+    "region_id": 10,
+    "name_en": "Bara",
+    "name_ar": "بارا",
+    "code": "SD13026",
+    "center": [
+      14.0128696,
+      31.27995757
+    ],
+    "area_sqkm": 11563.58270942
+  },
+  {
+    "locality_id": 77,
+    "region_id": 13,
+    "name_en": "Barbar",
+    "name_ar": "بربر",
+    "code": "SD16013",
+    "center": [
+      18.14300537,
+      33.86300056
+    ],
+    "area_sqkm": 13448.83396399
+  },
+  {
+    "locality_id": 78,
+    "region_id": 6,
+    "name_en": "Basundah",
+    "name_ar": "باسندة",
+    "code": "SD12077",
+    "center": [
+      12.92299022,
+      35.82558416
+    ],
+    "area_sqkm": 3734.07296171
+  },
+  {
+    "locality_id": 79,
+    "region_id": 3,
+    "name_en": "Baw",
+    "name_ar": "باو",
+    "code": "SD08104",
+    "center": [
+      11.16156286,
+      33.77962309
+    ],
+    "area_sqkm": 7246.94725636
+  },
+  {
+    "locality_id": 80,
+    "region_id": 17,
+    "name_en": "Beida",
+    "name_ar": "بيضا",
+    "code": "SD04111",
+    "center": [
+      12.89395298,
+      22.02779322
+    ],
+    "area_sqkm": 1824.07785382
+  },
+  {
+    "locality_id": 81,
+    "region_id": 15,
+    "name_en": "Beliel",
+    "name_ar": "بليل",
+    "code": "SD03162",
+    "center": [
+      11.91371625,
+      25.10481059
+    ],
+    "area_sqkm": 2383.6091476
+  },
+  {
+    "locality_id": 82,
+    "region_id": 4,
+    "name_en": "Bendasi",
+    "name_ar": "بندسي",
+    "code": "SD06112",
+    "center": [
+      12.05072231,
+      22.93376976
+    ],
+    "area_sqkm": 5421.36854415
+  },
+  {
+    "locality_id": 83,
+    "region_id": 15,
+    "name_en": "Buram",
+    "name_ar": "برام",
+    "code": "SD03161",
+    "center": [
+      10.76248716,
+      25.06326702
+    ],
+    "area_sqkm": 3581.69249322
+  },
+  {
+    "locality_id": 84,
+    "region_id": 15,
+    "name_en": "Damso",
+    "name_ar": "دمسو",
+    "code": "SD03172",
+    "center": [
+      10.75486669,
+      24.47288671
+    ],
+    "area_sqkm": 1714.2552211
+  },
+  {
+    "locality_id": 85,
+    "region_id": 9,
+    "name_en": "Dar As Salam",
+    "name_ar": "دار السلام",
+    "code": "SD02113",
+    "center": [
+      13.22982289,
+      25.33650993
+    ],
+    "area_sqkm": 2969.4568556
+  },
+  {
+    "locality_id": 86,
+    "region_id": 16,
+    "name_en": "Delami",
+    "name_ar": "دلامي",
+    "code": "SD07107",
+    "center": [
+      11.64742867,
+      30.33728711
+    ],
+    "area_sqkm": 4094.32792198
+  },
+  {
+    "locality_id": 87,
+    "region_id": 11,
+    "name_en": "Delgo",
+    "name_ar": "دلقو",
+    "code": "SD17015",
+    "center": [
+      20.09078069,
+      28.67004542
+    ],
+    "area_sqkm": 56637.17233509
+  },
+  {
+    "locality_id": 88,
+    "region_id": 16,
+    "name_en": "Dilling",
+    "name_ar": "الدلنج",
+    "code": "SD07095",
+    "center": [
+      11.95274992,
+      29.45695817
+    ],
+    "area_sqkm": 3704.65563536
+  },
+  {
+    "locality_id": 89,
+    "region_id": 11,
+    "name_en": "Dongola",
+    "name_ar": "دنقلا",
+    "code": "SD17017",
+    "center": [
+      19.23888355,
+      29.73603278
+    ],
+    "area_sqkm": 48382.76552458
+  },
+  {
+    "locality_id": 90,
+    "region_id": 12,
+    "name_en": "Dordieb",
+    "name_ar": "درديب",
+    "code": "SD10063",
+    "center": [
+      17.49740601,
+      35.81877295
+    ],
+    "area_sqkm": 12266.84383641
+  },
+  {
+    "locality_id": 91,
+    "region_id": 15,
+    "name_en": "Ed Al Fursan",
+    "name_ar": "عد الفرسان",
+    "code": "SD03143",
+    "center": [
+      11.71453242,
+      24.34328464
+    ],
+    "area_sqkm": 4434.61226026
+  },
+  {
+    "locality_id": 92,
+    "region_id": 3,
+    "name_en": "Ed Damazine",
+    "name_ar": "الدمازين",
+    "code": "SD08105",
+    "center": [
+      12.05101551,
+      34.22714734
+    ],
+    "area_sqkm": 1893.76089974
+  },
+  {
+    "locality_id": 93,
+    "region_id": 17,
+    "name_en": "Foro Baranga",
+    "name_ar": "فور برنقا",
+    "code": "SD04121",
+    "center": [
+      12.24445271,
+      22.59958007
+    ],
+    "area_sqkm": 779.99007184
+  },
+  {
+    "locality_id": 94,
+    "region_id": 6,
+    "name_en": "Gala'a Al Nahal",
+    "name_ar": "قلع النحل",
+    "code": "SD12079",
+    "center": [
+      13.35012006,
+      35.04765972
+    ],
+    "area_sqkm": 3861.08181512
+  },
+  {
+    "locality_id": 95,
+    "region_id": 6,
+    "name_en": "Galabat Ash-Shargiah",
+    "name_ar": "القلابات الشرقية",
+    "code": "SD12083",
+    "center": [
+      13.40982248,
+      35.78553882
+    ],
+    "area_sqkm": 4108.76323821
+  },
+  {
+    "locality_id": 96,
+    "region_id": 10,
+    "name_en": "Gebrat Al Sheikh",
+    "name_ar": "جبرة الشيخ",
+    "code": "SD13027",
+    "center": [
+      15.36146577,
+      30.92215663
+    ],
+    "area_sqkm": 50968.17142735
+  },
+  {
+    "locality_id": 97,
+    "region_id": 3,
+    "name_en": "Geisan",
+    "name_ar": "قيسان",
+    "code": "SD08109",
+    "center": [
+      11.23807575,
+      34.77365721
+    ],
+    "area_sqkm": 3471.00220205
+  },
+  {
+    "locality_id": 98,
+    "region_id": 15,
+    "name_en": "Gereida",
+    "name_ar": "قريضة",
+    "code": "SD03153",
+    "center": [
+      11.15298856,
+      25.32206984
+    ],
+    "area_sqkm": 2407.9781332
+  },
+  {
+    "locality_id": 99,
+    "region_id": 16,
+    "name_en": "Ghadeer",
+    "name_ar": "غدير",
+    "code": "SD07108",
+    "center": [
+      10.64473428,
+      31.03614206
+    ],
+    "area_sqkm": 6651.6960276
+  },
+  {
+    "locality_id": 100,
+    "region_id": 10,
+    "name_en": "Gharb Bara",
+    "name_ar": "غرب بارا",
+    "code": "SD13029",
+    "center": [
+      13.96048356,
+      29.59981426
+    ],
+    "area_sqkm": 11280.23252008
+  },
+  {
+    "locality_id": 101,
+    "region_id": 4,
+    "name_en": "Gharb Jabal Marrah",
+    "name_ar": "غرب جبل مرة",
+    "code": "SD06131",
+    "center": [
+      13.096936,
+      24.01025057
+    ],
+    "area_sqkm": 2362.39801002
+  },
+  {
+    "locality_id": 102,
+    "region_id": 18,
+    "name_en": "Ghubaish",
+    "name_ar": "غبيش",
+    "code": "SD18021",
+    "center": [
+      12.29260616,
+      27.50961974
+    ],
+    "area_sqkm": 7246.42054567
+  },
+  {
+    "locality_id": 103,
+    "region_id": 19,
+    "name_en": "Guli",
+    "name_ar": "قلي",
+    "code": "SD09052",
+    "center": [
+      13.30365653,
+      32.36404295
+    ],
+    "area_sqkm": 3049.01278676
+  },
+  {
+    "locality_id": 104,
+    "region_id": 16,
+    "name_en": "Habila - SK",
+    "name_ar": "هبيلة - ج ك",
+    "code": "SD07103",
+    "center": [
+      11.92675288,
+      29.957442
+    ],
+    "area_sqkm": 6095.70377962
+  },
+  {
+    "locality_id": 105,
+    "region_id": 17,
+    "name_en": "Habila - WD",
+    "name_ar": "هبيلة - غ د",
+    "code": "SD04122",
+    "center": [
+      12.60433399,
+      22.54854338
+    ],
+    "area_sqkm": 2314.13095061
+  },
+  {
+    "locality_id": 106,
+    "region_id": 12,
+    "name_en": "Hala'ib",
+    "name_ar": "حلايب",
+    "code": "SD10066",
+    "center": [
+      21.58748625,
+      36.51704145
+    ],
+    "area_sqkm": 40646.66728751
+  },
+  {
+    "locality_id": 107,
+    "region_id": 11,
+    "name_en": "Halfa",
+    "name_ar": "حلفا",
+    "code": "SD17014",
+    "center": [
+      21.40834952,
+      28.69766157
+    ],
+    "area_sqkm": 129213.12901913
+  },
+  {
+    "locality_id": 108,
+    "region_id": 7,
+    "name_en": "Halfa Aj Jadeedah",
+    "name_ar": "حلفا الجديدة",
+    "code": "SD11052",
+    "center": [
+      15.5637914,
+      35.55710226
+    ],
+    "area_sqkm": 1524.93820314
+  },
+  {
+    "locality_id": 109,
+    "region_id": 12,
+    "name_en": "Haya",
+    "name_ar": "هيا",
+    "code": "SD10070",
+    "center": [
+      17.97071507,
+      35.34949509
+    ],
+    "area_sqkm": 22405.8123632
+  },
+  {
+    "locality_id": 110,
+    "region_id": 16,
+    "name_en": "Heiban",
+    "name_ar": "هيبان",
+    "code": "SD07096",
+    "center": [
+      11.14661037,
+      30.46898903
+    ],
+    "area_sqkm": 3402.48912259
+  },
+  {
+    "locality_id": 111,
+    "region_id": 2,
+    "name_en": "Janub Al Jazirah",
+    "name_ar": "جنوب الجزيرة",
+    "code": "SD15031",
+    "center": [
+      14.09195335,
+      33.46363502
+    ],
+    "area_sqkm": 3251.48858586
+  },
+  {
+    "locality_id": 112,
+    "region_id": 8,
+    "name_en": "Jebel Awlia",
+    "name_ar": "جبل أولياء",
+    "code": "SD01001",
+    "center": [
+      15.35549472,
+      32.59018378
+    ],
+    "area_sqkm": 779.69997522
+  },
+  {
+    "locality_id": 113,
+    "region_id": 17,
+    "name_en": "Jebel Moon",
+    "name_ar": "جبل مون",
+    "code": "SD04123",
+    "center": [
+      14.07850775,
+      22.84489619
+    ],
+    "area_sqkm": 3909.63557779
+  },
+  {
+    "locality_id": 114,
+    "region_id": 12,
+    "name_en": "Jubayt Elma'aadin",
+    "name_ar": "جبيت المعادن",
+    "code": "SD10067",
+    "center": [
+      21.15698242,
+      34.91143159
+    ],
+    "area_sqkm": 40407.48676051
+  },
+  {
+    "locality_id": 115,
+    "region_id": 16,
+    "name_en": "Kadugli",
+    "name_ar": "كادقلي",
+    "code": "SD07098",
+    "center": [
+      11.0888587,
+      29.56462632
+    ],
+    "area_sqkm": 2165.60998608
+  },
+  {
+    "locality_id": 116,
+    "region_id": 8,
+    "name_en": "Karrari",
+    "name_ar": "كرري",
+    "code": "SD01005",
+    "center": [
+      16.02374634,
+      32.33816726
+    ],
+    "area_sqkm": 2916.06784398
+  },
+  {
+    "locality_id": 117,
+    "region_id": 15,
+    "name_en": "Kas",
+    "name_ar": "كاس",
+    "code": "SD03144",
+    "center": [
+      12.43907573,
+      24.2082075
+    ],
+    "area_sqkm": 3494.62641565
+  },
+  {
+    "locality_id": 118,
+    "region_id": 15,
+    "name_en": "Kateila",
+    "name_ar": "كتيلا",
+    "code": "SD03159",
+    "center": [
+      11.02328491,
+      24.29271352
+    ],
+    "area_sqkm": 2580.52053639
+  },
+  {
+    "locality_id": 119,
+    "region_id": 9,
+    "name_en": "Kebkabiya",
+    "name_ar": "كبكابية",
+    "code": "SD02124",
+    "center": [
+      13.61318589,
+      24.17930205
+    ],
+    "area_sqkm": 4445.79883726
+  },
+  {
+    "locality_id": 120,
+    "region_id": 18,
+    "name_en": "Keilak",
+    "name_ar": "كيلك",
+    "code": "SD18085",
+    "center": [
+      10.63256073,
+      29.33505478
+    ],
+    "area_sqkm": 8829.25056233
+  },
+  {
+    "locality_id": 121,
+    "region_id": 9,
+    "name_en": "Kelemando",
+    "name_ar": "كلمندو",
+    "code": "SD02126",
+    "center": [
+      13.12410301,
+      25.93858535
+    ],
+    "area_sqkm": 7224.78851624
+  },
+  {
+    "locality_id": 122,
+    "region_id": 17,
+    "name_en": "Kereneik",
+    "name_ar": "كرينك",
+    "code": "SD04125",
+    "center": [
+      13.2915252,
+      22.84201265
+    ],
+    "area_sqkm": 5797.46011172
+  },
+  {
+    "locality_id": 123,
+    "region_id": 9,
+    "name_en": "Kernoi",
+    "name_ar": "كرنوي",
+    "code": "SD02168",
+    "center": [
+      14.91051423,
+      23.45755264
+    ],
+    "area_sqkm": 8614.14767943
+  },
+  {
+    "locality_id": 124,
+    "region_id": 8,
+    "name_en": "Khartoum",
+    "name_ar": "الخرطوم",
+    "code": "SD01007",
+    "center": [
+      15.55208388,
+      32.54686646
+    ],
+    "area_sqkm": 167.21566764
+  },
+  {
+    "locality_id": 125,
+    "region_id": 19,
+    "name_en": "Kosti",
+    "name_ar": "كوستي",
+    "code": "SD09047",
+    "center": [
+      12.93081665,
+      32.66218588
+    ],
+    "area_sqkm": 1571.95906335
+  },
+  {
+    "locality_id": 126,
+    "region_id": 15,
+    "name_en": "Kubum",
+    "name_ar": "كبم",
+    "code": "SD03157",
+    "center": [
+      11.74151398,
+      23.8802792
+    ],
+    "area_sqkm": 3007.75486917
+  },
+  {
+    "locality_id": 127,
+    "region_id": 17,
+    "name_en": "Kulbus",
+    "name_ar": "كلبس",
+    "code": "SD04127",
+    "center": [
+      14.60767942,
+      22.63647446
+    ],
+    "area_sqkm": 2922.10861523
+  },
+  {
+    "locality_id": 128,
+    "region_id": 9,
+    "name_en": "Kutum",
+    "name_ar": "كتم",
+    "code": "SD02128",
+    "center": [
+      14.49143853,
+      24.69140141
+    ],
+    "area_sqkm": 14000.58093014
+  },
+  {
+    "locality_id": 129,
+    "region_id": 6,
+    "name_en": "Madeinat Al Gedaref",
+    "name_ar": "مدينة القضارف",
+    "code": "SD12080",
+    "center": [
+      14.02637517,
+      35.36756142
+    ],
+    "area_sqkm": 118.59216684
+  },
+  {
+    "locality_id": 130,
+    "region_id": 7,
+    "name_en": "Madeinat Kassala",
+    "name_ar": "مدينة كسلا",
+    "code": "SD11053",
+    "center": [
+      15.43363808,
+      36.37177473
+    ],
+    "area_sqkm": 132.47406098
+  },
+  {
+    "locality_id": 131,
+    "region_id": 2,
+    "name_en": "Medani Al Kubra",
+    "name_ar": "مدني الكبري",
+    "code": "SD15030",
+    "center": [
+      14.32974208,
+      33.63048568
+    ],
+    "area_sqkm": 587.14584869
+  },
+  {
+    "locality_id": 132,
+    "region_id": 9,
+    "name_en": "Melit",
+    "name_ar": "مليط",
+    "code": "SD02129",
+    "center": [
+      14.20426227,
+      26.19533112
+    ],
+    "area_sqkm": 16116.56808924
+  },
+  {
+    "locality_id": 133,
+    "region_id": 15,
+    "name_en": "Mershing",
+    "name_ar": "مرشنج",
+    "code": "SD03145",
+    "center": [
+      12.51638794,
+      24.97931403
+    ],
+    "area_sqkm": 1140.24883126
+  },
+  {
+    "locality_id": 134,
+    "region_id": 11,
+    "name_en": "Merwoe",
+    "name_ar": "مروي",
+    "code": "SD17020",
+    "center": [
+      18.37454422,
+      31.93965688
+    ],
+    "area_sqkm": 17611.72823784
+  },
+  {
+    "locality_id": 135,
+    "region_id": 4,
+    "name_en": "Mukjar",
+    "name_ar": "مكجر",
+    "code": "SD06130",
+    "center": [
+      11.81471546,
+      23.39152148
+    ],
+    "area_sqkm": 6238.6650327
+  },
+  {
+    "locality_id": 136,
+    "region_id": 15,
+    "name_en": "Nitega",
+    "name_ar": "نتيقة",
+    "code": "SD03151",
+    "center": [
+      12.60307735,
+      25.29436258
+    ],
+    "area_sqkm": 2939.30194337
+  },
+  {
+    "locality_id": 137,
+    "region_id": 15,
+    "name_en": "Nyala Janoub",
+    "name_ar": "نيالا جنوب",
+    "code": "SD03167",
+    "center": [
+      12.0208916,
+      24.8262383
+    ],
+    "area_sqkm": 257.71873878
+  },
+  {
+    "locality_id": 138,
+    "region_id": 15,
+    "name_en": "Nyala Shimal",
+    "name_ar": "نيالا شمال",
+    "code": "SD03164",
+    "center": [
+      12.4342245,
+      24.6836335
+    ],
+    "area_sqkm": 3146.50269284
+  },
+  {
+    "locality_id": 139,
+    "region_id": 12,
+    "name_en": "Port Sudan",
+    "name_ar": "بورتسودان",
+    "code": "SD10064",
+    "center": [
+      19.49478903,
+      37.20486968
+    ],
+    "area_sqkm": 564.02138299
+  },
+  {
+    "locality_id": 140,
+    "region_id": 19,
+    "name_en": "Rabak",
+    "name_ar": "ربك",
+    "code": "SD09046",
+    "center": [
+      13.42819232,
+      32.79350379
+    ],
+    "area_sqkm": 1690.11474835
+  },
+  {
+    "locality_id": 141,
+    "region_id": 15,
+    "name_en": "Rehaid Albirdi",
+    "name_ar": "رهيد البردي",
+    "code": "SD03158",
+    "center": [
+      10.99917305,
+      23.4953078
+    ],
+    "area_sqkm": 7475.95083914
+  },
+  {
+    "locality_id": 142,
+    "region_id": 7,
+    "name_en": "Reifi Aroma",
+    "name_ar": "ريفى أروما",
+    "code": "SD11055",
+    "center": [
+      15.73454684,
+      35.96172382
+    ],
+    "area_sqkm": 5950.58528826
+  },
+  {
+    "locality_id": 143,
+    "region_id": 7,
+    "name_en": "Reifi Gharb Kassala",
+    "name_ar": "ريفى غرب كسلا",
+    "code": "SD11054",
+    "center": [
+      15.29257853,
+      36.1116699
+    ],
+    "area_sqkm": 1959.91813239
+  },
+  {
+    "locality_id": 144,
+    "region_id": 7,
+    "name_en": "Reifi Hamashkureib",
+    "name_ar": "ريفى همش كوريب",
+    "code": "SD11058",
+    "center": [
+      16.81306912,
+      36.59431959
+    ],
+    "area_sqkm": 3901.32942679
+  },
+  {
+    "locality_id": 145,
+    "region_id": 7,
+    "name_en": "Reifi Kassla",
+    "name_ar": "ريفى كسلا",
+    "code": "SD11056",
+    "center": [
+      15.26208276,
+      36.42809556
+    ],
+    "area_sqkm": 2818.32507321
+  },
+  {
+    "locality_id": 146,
+    "region_id": 7,
+    "name_en": "Reifi Khashm Elgirba",
+    "name_ar": "ريفى خشم القربة",
+    "code": "SD11060",
+    "center": [
+      15.58128244,
+      34.93539359
+    ],
+    "area_sqkm": 12081.33452408
+  },
+  {
+    "locality_id": 147,
+    "region_id": 7,
+    "name_en": "Reifi Nahr Atbara",
+    "name_ar": "ريفى نهر عطبرة",
+    "code": "SD11062",
+    "center": [
+      15.72388675,
+      35.39765007
+    ],
+    "area_sqkm": 2382.8669101
+  },
+  {
+    "locality_id": 148,
+    "region_id": 7,
+    "name_en": "Reifi Shamal Ad Delta",
+    "name_ar": "ريفى شمال الدلتا",
+    "code": "SD11057",
+    "center": [
+      16.58348843,
+      35.96957676
+    ],
+    "area_sqkm": 7442.78452917
+  },
+  {
+    "locality_id": 149,
+    "region_id": 7,
+    "name_en": "Reifi Telkok",
+    "name_ar": "ريفى تلكوك",
+    "code": "SD11059",
+    "center": [
+      16.15412479,
+      36.63884292
+    ],
+    "area_sqkm": 5634.24794143
+  },
+  {
+    "locality_id": 150,
+    "region_id": 7,
+    "name_en": "Reifi Wad Elhilaiw",
+    "name_ar": "ريفى ود الحليو",
+    "code": "SD11061",
+    "center": [
+      14.60650203,
+      36.19335101
+    ],
+    "area_sqkm": 4869.6483895
+  },
+  {
+    "locality_id": 151,
+    "region_id": 9,
+    "name_en": "Saraf Omra",
+    "name_ar": "سرف عمرة",
+    "code": "SD02133",
+    "center": [
+      13.64043122,
+      23.28901653
+    ],
+    "area_sqkm": 1482.72510876
+  },
+  {
+    "locality_id": 152,
+    "region_id": 12,
+    "name_en": "Sawakin",
+    "name_ar": "سواكن",
+    "code": "SD10068",
+    "center": [
+      19.02627712,
+      37.24023157
+    ],
+    "area_sqkm": 1968.30928044
+  },
+  {
+    "locality_id": 153,
+    "region_id": 14,
+    "name_en": "Sennar",
+    "name_ar": "سنار",
+    "code": "SD14038",
+    "center": [
+      13.55593538,
+      33.30211973
+    ],
+    "area_sqkm": 5532.47467175
+  },
+  {
+    "locality_id": 154,
+    "region_id": 4,
+    "name_en": "Shamal Jabal Marrah",
+    "name_ar": "شمال جبل مرة",
+    "code": "SD06132",
+    "center": [
+      13.27293648,
+      24.44775977
+    ],
+    "area_sqkm": 1095.47391003
+  },
+  {
+    "locality_id": 155,
+    "region_id": 15,
+    "name_en": "Sharg Aj Jabal",
+    "name_ar": "شرق الجبل",
+    "code": "SD03147",
+    "center": [
+      12.90876555,
+      24.49504608
+    ],
+    "area_sqkm": 2899.84762914
+  },
+  {
+    "locality_id": 156,
+    "region_id": 2,
+    "name_en": "Sharg Al Jazirah",
+    "name_ar": "شرق الجزيرة",
+    "code": "SD15033",
+    "center": [
+      15.01554949,
+      33.66792461
+    ],
+    "area_sqkm": 6519.23025688
+  },
+  {
+    "locality_id": 157,
+    "region_id": 8,
+    "name_en": "Sharg An Neel",
+    "name_ar": "شرق النيل",
+    "code": "SD01004",
+    "center": [
+      15.69110107,
+      33.31993167
+    ],
+    "area_sqkm": 9471.34941244
+  },
+  {
+    "locality_id": 158,
+    "region_id": 14,
+    "name_en": "Sharg Sennar",
+    "name_ar": "شرق سنار",
+    "code": "SD14042",
+    "center": [
+      13.74539203,
+      33.86560254
+    ],
+    "area_sqkm": 3156.27282433
+  },
+  {
+    "locality_id": 159,
+    "region_id": 15,
+    "name_en": "Shattaya",
+    "name_ar": "شطاية",
+    "code": "SD03154",
+    "center": [
+      12.34768999,
+      23.8692448
+    ],
+    "area_sqkm": 1829.54758316
+  },
+  {
+    "locality_id": 160,
+    "region_id": 10,
+    "name_en": "Sheikan",
+    "name_ar": "شيكان",
+    "code": "SD13024",
+    "center": [
+      13.03542861,
+      30.03226473
+    ],
+    "area_sqkm": 8407.60843269
+  },
+  {
+    "locality_id": 161,
+    "region_id": 13,
+    "name_en": "Shendi",
+    "name_ar": "شندي",
+    "code": "SD16010",
+    "center": [
+      16.37537043,
+      33.55838674
+    ],
+    "area_sqkm": 11835.52173574
+  },
+  {
+    "locality_id": 162,
+    "region_id": 5,
+    "name_en": "Shia'ria",
+    "name_ar": "شعيرية",
+    "code": "SD05148",
+    "center": [
+      12.58805293,
+      25.70066887
+    ],
+    "area_sqkm": 3733.1466666
+  },
+  {
+    "locality_id": 163,
+    "region_id": 14,
+    "name_en": "Sinja",
+    "name_ar": "سنجة",
+    "code": "SD14043",
+    "center": [
+      13.1288376,
+      33.78666667
+    ],
+    "area_sqkm": 1724.18139389
+  },
+  {
+    "locality_id": 164,
+    "region_id": 12,
+    "name_en": "Sinkat",
+    "name_ar": "سنكات",
+    "code": "SD10071",
+    "center": [
+      18.90184214,
+      36.60137853
+    ],
+    "area_sqkm": 8037.41547388
+  },
+  {
+    "locality_id": 165,
+    "region_id": 17,
+    "name_en": "Sirba",
+    "name_ar": "سربا",
+    "code": "SD04134",
+    "center": [
+      13.82471568,
+      22.42332323
+    ],
+    "area_sqkm": 1965.5242277
+  },
+  {
+    "locality_id": 166,
+    "region_id": 10,
+    "name_en": "Soudari",
+    "name_ar": "سودري",
+    "code": "SD13025",
+    "center": [
+      15.17409925,
+      28.25385032
+    ],
+    "area_sqkm": 81591.17895923
+  },
+  {
+    "locality_id": 167,
+    "region_id": 16,
+    "name_en": "Talawdi",
+    "name_ar": "تلودي",
+    "code": "SD07089",
+    "center": [
+      10.54181428,
+      30.43699872
+    ],
+    "area_sqkm": 3642.04477084
+  },
+  {
+    "locality_id": 168,
+    "region_id": 9,
+    "name_en": "Tawila",
+    "name_ar": "طويلة",
+    "code": "SD02170",
+    "center": [
+      13.3137602,
+      24.90311514
+    ],
+    "area_sqkm": 3483.01385905
+  },
+  {
+    "locality_id": 169,
+    "region_id": 12,
+    "name_en": "Tawkar",
+    "name_ar": "طوكر",
+    "code": "SD10065",
+    "center": [
+      17.93698867,
+      37.26496634
+    ],
+    "area_sqkm": 11350.83925657
+  },
+  {
+    "locality_id": 170,
+    "region_id": 19,
+    "name_en": "Tendalti",
+    "name_ar": "تندلتي",
+    "code": "SD09048",
+    "center": [
+      13.11949441,
+      32.05579195
+    ],
+    "area_sqkm": 4375.81205361
+  },
+  {
+    "locality_id": 171,
+    "region_id": 15,
+    "name_en": "Tulus",
+    "name_ar": "تلس",
+    "code": "SD03149",
+    "center": [
+      11.26177979,
+      25.00363191
+    ],
+    "area_sqkm": 2148.90664958
+  },
+  {
+    "locality_id": 172,
+    "region_id": 2,
+    "name_en": "Um Algura",
+    "name_ar": "أم القري",
+    "code": "SD15032",
+    "center": [
+      14.45818768,
+      33.86581441
+    ],
+    "area_sqkm": 3931.01648672
+  },
+  {
+    "locality_id": 173,
+    "region_id": 8,
+    "name_en": "Um Bada",
+    "name_ar": "أمبدة",
+    "code": "SD01002",
+    "center": [
+      16.128221,
+      31.89716985
+    ],
+    "area_sqkm": 3465.03934137
+  },
+  {
+    "locality_id": 174,
+    "region_id": 9,
+    "name_en": "Um Baru",
+    "name_ar": "أم برو",
+    "code": "SD02120",
+    "center": [
+      15.31011348,
+      24.20823559
+    ],
+    "area_sqkm": 16391.81402124
+  },
+  {
+    "locality_id": 175,
+    "region_id": 15,
+    "name_en": "Um Dafoug",
+    "name_ar": "أم دافوق",
+    "code": "SD03146",
+    "center": [
+      10.56800452,
+      23.74933013
+    ],
+    "area_sqkm": 5185.28037104
+  },
+  {
+    "locality_id": 176,
+    "region_id": 10,
+    "name_en": "Um Dam Haj Ahmed",
+    "name_ar": "أم دم حاج أحمد",
+    "code": "SD13028",
+    "center": [
+      13.71768324,
+      30.88117064
+    ],
+    "area_sqkm": 4992.26197556
+  },
+  {
+    "locality_id": 177,
+    "region_id": 4,
+    "name_en": "Um Dukhun",
+    "name_ar": "أم دخن",
+    "code": "SD06135",
+    "center": [
+      11.37820435,
+      23.15049025
+    ],
+    "area_sqkm": 2723.06592656
+  },
+  {
+    "locality_id": 178,
+    "region_id": 16,
+    "name_en": "Um Durein",
+    "name_ar": "أم دورين",
+    "code": "SD07091",
+    "center": [
+      10.92386462,
+      30.13257183
+    ],
+    "area_sqkm": 2126.69149473
+  },
+  {
+    "locality_id": 179,
+    "region_id": 8,
+    "name_en": "Um Durman",
+    "name_ar": "أم درمان",
+    "code": "SD01006",
+    "center": [
+      15.44088282,
+      32.34223472
+    ],
+    "area_sqkm": 1217.5315931
+  },
+  {
+    "locality_id": 180,
+    "region_id": 9,
+    "name_en": "Um Kadadah",
+    "name_ar": "أم كدادة",
+    "code": "SD02136",
+    "center": [
+      13.48500806,
+      26.92415947
+    ],
+    "area_sqkm": 13090.37373117
+  },
+  {
+    "locality_id": 181,
+    "region_id": 10,
+    "name_en": "Um Rawaba",
+    "name_ar": "أم روابة",
+    "code": "SD13023",
+    "center": [
+      13.16128522,
+      31.40624559
+    ],
+    "area_sqkm": 11671.30495228
+  },
+  {
+    "locality_id": 182,
+    "region_id": 19,
+    "name_en": "Um Rimta",
+    "name_ar": "أم رمتة",
+    "code": "SD09045",
+    "center": [
+      14.60650635,
+      31.87586233
+    ],
+    "area_sqkm": 3168.53126951
+  },
+  {
+    "locality_id": 183,
+    "region_id": 3,
+    "name_en": "Wad Al Mahi",
+    "name_ar": "ود الماحي",
+    "code": "SD08110",
+    "center": [
+      11.59554025,
+      34.75346101
+    ],
+    "area_sqkm": 3817.26833537
+  },
+  {
+    "locality_id": 184,
+    "region_id": 18,
+    "name_en": "Wad Bandah",
+    "name_ar": "ود بندة",
+    "code": "SD18029",
+    "center": [
+      13.30163476,
+      27.78352964
+    ],
+    "area_sqkm": 11410.04971748
+  },
+  {
+    "locality_id": 185,
+    "region_id": 4,
+    "name_en": "Wadi Salih",
+    "name_ar": "وادي صالح",
+    "code": "SD06137",
+    "center": [
+      12.41613954,
+      23.37100634
+    ],
+    "area_sqkm": 3311.15496686
+  },
+  {
+    "locality_id": 186,
+    "region_id": 6,
+    "name_en": "Wasat Al Gedaref",
+    "name_ar": "وسط القضارف",
+    "code": "SD12081",
+    "center": [
+      14.15164225,
+      34.99463654
+    ],
+    "area_sqkm": 9576.76590605
+  },
+  {
+    "locality_id": 187,
+    "region_id": 4,
+    "name_en": "Wasat Jabal Marrah",
+    "name_ar": "وسط جبل مرة",
+    "code": "SD06139",
+    "center": [
+      13.12365192,
+      24.3135152
+    ],
+    "area_sqkm": 447.71785311
+  },
+  {
+    "locality_id": 188,
+    "region_id": 5,
+    "name_en": "Yassin",
+    "name_ar": "يس",
+    "code": "SD05165",
+    "center": [
+      11.70697667,
+      25.5864127
+    ],
+    "area_sqkm": 5493.3313884
+  },
+  {
+    "locality_id": 189,
+    "region_id": 4,
+    "name_en": "Zalingi",
+    "name_ar": "زالنجى",
+    "code": "SD06138",
+    "center": [
+      13.04489201,
+      23.56054907
+    ],
+    "area_sqkm": 6153.83106991
+  }
+]

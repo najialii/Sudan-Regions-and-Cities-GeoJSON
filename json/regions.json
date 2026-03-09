@@ -1,0 +1,211 @@
+[
+  {
+    "region_id": 1,
+    "name_en": "Abyei PCA",
+    "name_ar": "إدارية أبيي",
+    "code": "SD19",
+    "center": [
+      9.76237449,
+      28.41709322
+    ],
+    "area_sqkm": 10536.83824562
+  },
+  {
+    "region_id": 2,
+    "name_en": "Aj Jazirah",
+    "name_ar": "الجزيرة",
+    "code": "SD15",
+    "center": [
+      14.5116272,
+      33.28351684
+    ],
+    "area_sqkm": 27154.46368332
+  },
+  {
+    "region_id": 3,
+    "name_en": "Blue Nile",
+    "name_ar": "النيل الأزرق",
+    "code": "SD08",
+    "center": [
+      11.02519187,
+      34.10191244
+    ],
+    "area_sqkm": 38165.18256435
+  },
+  {
+    "region_id": 4,
+    "name_en": "Central Darfur",
+    "name_ar": "وسط دارفور",
+    "code": "SD06",
+    "center": [
+      12.30838055,
+      23.23411106
+    ],
+    "area_sqkm": 30960.93410728
+  },
+  {
+    "region_id": 5,
+    "name_en": "East Darfur",
+    "name_ar": "شرق دارفور",
+    "code": "SD05",
+    "center": [
+      11.22988573,
+      26.39722982
+    ],
+    "area_sqkm": 50775.45662694
+  },
+  {
+    "region_id": 6,
+    "name_en": "Gedaref",
+    "name_ar": "القضارف",
+    "code": "SD12",
+    "center": [
+      14.21029664,
+      35.02673717
+    ],
+    "area_sqkm": 59542.06696884
+  },
+  {
+    "region_id": 7,
+    "name_en": "Kassala",
+    "name_ar": "كسلا",
+    "code": "SD11",
+    "center": [
+      15.71040524,
+      35.5355862
+    ],
+    "area_sqkm": 48698.45247904
+  },
+  {
+    "region_id": 8,
+    "name_en": "Khartoum",
+    "name_ar": "الخرطوم",
+    "code": "SD01",
+    "center": [
+      15.91498652,
+      33.13522205
+    ],
+    "area_sqkm": 21217.39205308
+  },
+  {
+    "region_id": 9,
+    "name_en": "North Darfur",
+    "name_ar": "شمال دارفور",
+    "code": "SD02",
+    "center": [
+      15.91233495,
+      25.49878428
+    ],
+    "area_sqkm": 317221.32152399
+  },
+  {
+    "region_id": 10,
+    "name_en": "North Kordofan",
+    "name_ar": "شمال كردفان",
+    "code": "SD13",
+    "center": [
+      14.38938754,
+      29.43704807
+    ],
+    "area_sqkm": 186149.18674226
+  },
+  {
+    "region_id": 11,
+    "name_en": "Northern",
+    "name_ar": "الشمالية",
+    "code": "SD17",
+    "center": [
+      19.36562691,
+      29.89554898
+    ],
+    "area_sqkm": 364120.22127411
+  },
+  {
+    "region_id": 12,
+    "name_en": "Red Sea",
+    "name_ar": "البحر الأحمر",
+    "code": "SD10",
+    "center": [
+      20.0739474,
+      35.41261521
+    ],
+    "area_sqkm": 215609.10256364
+  },
+  {
+    "region_id": 13,
+    "name_en": "River Nile",
+    "name_ar": "نهر النيل",
+    "code": "SD16",
+    "center": [
+      18.83467686,
+      33.12314746
+    ],
+    "area_sqkm": 130405.29549332
+  },
+  {
+    "region_id": 14,
+    "name_en": "Sennar",
+    "name_ar": "سنار",
+    "code": "SD14",
+    "center": [
+      12.92321074,
+      34.07481984
+    ],
+    "area_sqkm": 39256.56099944
+  },
+  {
+    "region_id": 15,
+    "name_en": "South Darfur",
+    "name_ar": "جنوب دارفور",
+    "code": "SD03",
+    "center": [
+      10.8859108,
+      24.31318019
+    ],
+    "area_sqkm": 85824.45494866
+  },
+  {
+    "region_id": 16,
+    "name_en": "South Kordofan",
+    "name_ar": "جنوب كردفان",
+    "code": "SD07",
+    "center": [
+      11.22893046,
+      30.9139923
+    ],
+    "area_sqkm": 79330.64433715
+  },
+  {
+    "region_id": 17,
+    "name_en": "West Darfur",
+    "name_ar": "غرب دارفور",
+    "code": "SD04",
+    "center": [
+      13.50261153,
+      22.71005876
+    ],
+    "area_sqkm": 22256.82992905
+  },
+  {
+    "region_id": 18,
+    "name_en": "West Kordofan",
+    "name_ar": "غرب كردفان",
+    "code": "SD18",
+    "center": [
+      11.86855138,
+      28.22106087
+    ],
+    "area_sqkm": 106309.39788625
+  },
+  {
+    "region_id": 19,
+    "name_en": "White Nile",
+    "name_ar": "النيل الأبيض",
+    "code": "SD09",
+    "center": [
+      13.5895081,
+      32.35210132
+    ],
+    "area_sqkm": 37993.76835192
+  }
+]
